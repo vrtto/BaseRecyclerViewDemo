@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="urls">
+        <item>http://ww3.sinaimg.cn/large/610dc034jw1fasakfvqe1j20u00mhgn2.jpg</item>
+        <item>http://ww2.sinaimg.cn/large/610dc034gw1farbzjliclj20u00u076w.jpg</item>
+        <item>http://ww2.sinaimg.cn/large/610dc034gw1faq15nnc0xj20u00u0wlq.jpg</item>
+        <item>http://ww4.sinaimg.cn/large/610dc034jw1faoucp1idej20u011h0va.jpg</item>
+        <item>http://ww4.sinaimg.cn/large/610dc034jw1fanrdyaxi6j20u00k1ta9.jpg</item>
+        <item>http://ww1.sinaimg.cn/large/610dc034jw1faj6sozkluj20u00nt75p.jpg</item>
+        <item>http://ww1.sinaimg.cn/large/610dc034jw1fahy9m7xw0j20u00u042l.jpg</item>
+        <item>http://ww4.sinaimg.cn/large/610dc034jw1fagrnmiqm1j20u011hanr.jpg</item>
+        <item>http://ww4.sinaimg.cn/large/610dc034gw1fafmi73pomj20u00u0abr.jpg</item>
+        <item>http://ww4.sinaimg.cn/large/610dc034jw1fanrdyaxi6j20u00k1ta9.jpg</item>
+        <item>http://ww2.sinaimg.cn/large/610dc034gw1faq15nnc0xj20u00u0wlq.jpg</item>
+        <item>http://ww4.sinaimg.cn/large/610dc034jw1faoucp1idej20u011h0va.jpg</item>
+        <item>http://ww4.sinaimg.cn/large/610dc034jw1faoucp1idej20u011h0va.jpg</item>
+        <item>http://ww4.sinaimg.cn/large/610dc034jw1faoucp1idej20u011h0va.jpg</item>
+        <item>http://ww4.sinaimg.cn/large/610dc034jw1faoucp1idej20u011h0va.jpg</item>
+    </string-array>
+
+
+
+
+
+
+
+</resources>
